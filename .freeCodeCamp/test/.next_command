@@ -50,3 +50,4 @@ echo $NAME
 echo $NAME
 echo adasd
 echo $NAME
+cat

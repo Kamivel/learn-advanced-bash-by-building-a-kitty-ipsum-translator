@@ -125,3 +125,7 @@ sed 's/freecodecamp/f233C0d3C@mp/' name.txt
 sed 's/freecodecamp/f233C0d3C@mp/i' name.txt
 sed name.txt < 's/freecodecamp/f233C0d3C@mp/i'
 sed 's/freecodecamp/f233C0d3C@mp/i' < name.txt
+cat 's/freecodecamp/f233C0d3C@mp/i'
+__vsc_prompt_cmd_original
+cat 's/freecodecamp/f233C0d3C@mp/i' < name.txt
+cat name.txt

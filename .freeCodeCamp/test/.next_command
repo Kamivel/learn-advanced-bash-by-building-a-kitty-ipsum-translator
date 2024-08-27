@@ -98,3 +98,4 @@ grep 'meow' kitty_ipsum_1.txt
 man grep
 __vsc_prompt_cmd_original
 grep --color 'meow' kitty_ipsum_1.txt
+grep --color 'meow' -n kitty_ipsum_1.txt

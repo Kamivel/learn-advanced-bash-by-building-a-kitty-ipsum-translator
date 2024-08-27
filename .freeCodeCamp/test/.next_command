@@ -72,3 +72,10 @@ wc kitty_ipsum_1.txt
 man wc
 wc kitty_ipsum_1.txt -l
 wc kitty_ipsum_1.txt -w
+__vsc_prompt_cmd_original
+wc kitty_ipsum_1.txt -c
+wc kitty_ipsum_1.txt -ch
+wc --help
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+wc kitty_ipsum_1.txt -m

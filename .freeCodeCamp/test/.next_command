@@ -51,3 +51,4 @@ echo $NAME
 echo adasd
 echo $NAME
 cat
+cat name.txt

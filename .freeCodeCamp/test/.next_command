@@ -47,3 +47,5 @@ echo freeCodeCamp > name.txt
 read < name.txt
 read NAME < name.txt
 echo $NAME
+echo $NAME
+echo adasd

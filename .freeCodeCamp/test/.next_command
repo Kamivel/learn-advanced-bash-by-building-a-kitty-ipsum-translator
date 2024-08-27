@@ -129,3 +129,4 @@ cat 's/freecodecamp/f233C0d3C@mp/i'
 __vsc_prompt_cmd_original
 cat 's/freecodecamp/f233C0d3C@mp/i' < name.txt
 cat name.txt
+grep -n 'meow[a-z]*' kitty_ipsum_1.txt

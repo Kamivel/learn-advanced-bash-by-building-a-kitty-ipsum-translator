@@ -62,3 +62,4 @@ chmod +x script.sh
 echo asdas
 echo asdas
 echo asdas
+./script.sh < name.txt

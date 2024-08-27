@@ -176,3 +176,4 @@ grep -o 'meow[a-z]*' kitty_ipsum_2.txt
 __vsc_prompt_cmd_original
 grep -o 'meow[a-z]*' kitty_ipsum_2.txt
 grep -o 'meow[a-z]*' kitty_ipsum_2.txt
+echo -e "\nLines that they appear on:" >> kitty_info.txt
